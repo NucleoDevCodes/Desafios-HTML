@@ -14,6 +14,8 @@ Você deve criar uma aplicação ,asi avençada agpra usando uma Api que convert
 
 ● Dica: use eventos e manipulação do DOM. 
 
+● Pode usar fetch ou axios para a manipulação da API
+
 ● Acesse o site e pegue a sua chave da API
 
 https://www.exchangerate-api.com/
