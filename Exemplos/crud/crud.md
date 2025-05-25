@@ -25,10 +25,14 @@ Criar uma aplicação web simples que permita:
 
 ## 📁 Estrutura sugerida do projeto
 
+```js
 crud-projeto/
 ├── index.html
 ├── style.css
 └── script.js
+```
+
+
 
 
 ## 🚀 Desafio Extra
