@@ -15,6 +15,8 @@ Crie um script que:
 O(a) usuário(a) altera o nome para "Carlos" em uma aba.
 Outra aba aberta recebe essa alteração automaticamente.
 
+**Base do exercícios**
+
 
 ```html
 <html lang="pt-BR">

@@ -31,6 +31,8 @@ Carrinho:
 1. Notebook - R$3500
 ```
 
+**Base do exercícios**
+
 ```html
 <html lang="pt-BR">
 

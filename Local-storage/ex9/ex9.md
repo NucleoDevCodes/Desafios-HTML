@@ -18,6 +18,8 @@ Se o usuário clicar em "Zerar contador":
 Você visitou esta página 0 vezes.
 ```
 
+**Base do exercícios**
+
 ```html
 <html lang="pt-BR">
 

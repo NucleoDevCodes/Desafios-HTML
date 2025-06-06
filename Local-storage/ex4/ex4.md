@@ -22,6 +22,8 @@ Saída Esperada (Após remover "Vermelho"):
 Cores salvas: Azul, Verde
 ```
 
+**Base do exercícios**
+
 ```html
 
 <html lang="pt-BR">

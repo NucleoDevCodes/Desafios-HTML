@@ -17,6 +17,8 @@ Saída Esperada:
 Bem-vindo, joao123!
 ```
 
+**Base do exercícios**
+
 ```html
 <html lang="pt-BR">
 

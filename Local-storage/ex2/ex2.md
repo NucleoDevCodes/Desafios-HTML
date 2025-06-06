@@ -12,6 +12,8 @@ Agora, imagine que você está desenvolvendo um site onde os(as) usuários(as) p
 
 ● Ao recarregar a página, o site continua em modo escuro.
 
+**Base do exercícios**
+
 ```html
 <html lang="pt-BR">
 
